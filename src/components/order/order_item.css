@@ -1,0 +1,26 @@
+.orderItem {
+  width: 250px;
+  padding: 10px 8px;
+  background-color: rgba(255, 255, 0, 0.705);
+  margin-left: 14px;
+  margin-top: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.589);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.order_title {
+  font-size: 20px;
+  font-weight: bold;
+}
+.order_num {
+  color: rgba(15, 226, 15, 0.87);
+  font-weight: bold;
+  font-size: 20px;
+}
+.order_cost {
+  color: rgba(255, 0, 0, 0.808);
+  font-weight: bold;
+  font-size: 20px;
+}
